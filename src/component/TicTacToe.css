@@ -1,0 +1,22 @@
+.cont h1 img{
+width: 50px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+h1 span {
+    color: #26ffcb;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 600px) {
+    .boxes{
+        width: 100px;
+        height: 100px;
+    }
+
+    .boxes img{
+        width: 50px;
+    }
+
+}
